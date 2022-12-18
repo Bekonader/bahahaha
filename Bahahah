@@ -1,7 +1,7 @@
 return {
 
-["beko_mod"] = true,
+["beko_od"] = true,
 
-["beko_mod"] = true
+["beo_mod"] = true
 
 }
