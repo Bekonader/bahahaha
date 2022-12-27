@@ -2,8 +2,16 @@ return {
 
 ["MM12PMM2"] = true,
 
-["MM12PMM2"] = true
+["MM132MM20"] = true
+
+}
+
+return {
+
+["beko_mod"] = true,
 
 ["beko_mod"] = true
 
 }
+
+--beko--
